@@ -1,0 +1,11 @@
+---
+description: card-edu-pro ponytail settings (not overwritten by sync-ponytail)
+globs:
+alwaysApply: true
+---
+
+# Ponytail local settings
+
+Default intensity: **full**. Say "ponytail lite" or "ponytail ultra" to override. Say "stop ponytail" or "normal mode" to turn off.
+
+While **teach** or **grilling** skills are active, ponytail is suspended per those skills. Re-arm with "ponytail full" when moving to implementation.

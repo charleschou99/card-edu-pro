@@ -7,6 +7,14 @@ argument-hint: "What would you like to learn about?"
 
 The user has asked you to teach them something. This is a stateful request - they intend to learn the topic over multiple sessions.
 
+## Ponytail coexistence
+
+While this skill is active, **suspend ponytail**: do not apply the lazy-senior ladder, do not minimize or skip requested teaching work, and do not refuse to build lessons or explanations because YAGNI would apply to production code.
+
+When a teaching session ends and the user moves to **implementation** (writing production code from what was learned), close with:
+
+> Teaching session complete. For implementation: **ponytail full** — follow the ladder, minimal diff. Attach the ponytail skill or say "ponytail full — implement what we decided" if the agent still explains instead of coding.
+
 ## Teaching Workspace
 
 Treat the current directory as a teaching workspace. The state of their learning is captured in this directory in several files:

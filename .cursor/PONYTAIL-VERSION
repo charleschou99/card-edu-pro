@@ -1,0 +1,7 @@
+source: https://github.com/DietrichGebert/ponytail.git
+tag: v4.8.3
+synced: 2026-06-28T12:04:35.935Z
+license: MIT
+
+Vendored files are overwritten by scripts/sync-ponytail.js.
+Local customizations: .cursor/rules/ponytail-local.mdc
